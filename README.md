@@ -1,10 +1,5 @@
 # 🏋️ Gym Management System
 
-🌐 **Live Demo:** [https://gym-management-system-xmc8.onrender.com](https://gym-management-system-xmc8.onrender.com)
-⚠️ *Note: This is hosted on a free server, so it may take a few seconds to load.*
-
----
-
 ## 📌 Project Overview
 
 The Gym Management System is a full-stack web application developed to automate and digitalize the daily operations of a gym. It helps manage members, attendance, and administrative tasks efficiently.
