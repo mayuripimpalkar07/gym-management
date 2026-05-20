@@ -197,7 +197,7 @@ The application uses environment variables for secure deployment.
 
 ## 👨‍💻 Author
 
-**Nishant Mahajan**
+**Mayuri Pimpalkar**
 
 ---
 
